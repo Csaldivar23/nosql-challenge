@@ -1,5 +1,5 @@
 # nosql-challenge
-Module_12_Challenge_ NoSQL
+Module_12_Challenge_NoSQL
 
 ### This challenge focuses on using a nosql database (MongoDB) to setup, update, and analyze through various establishments across the United Kingdom.
 
